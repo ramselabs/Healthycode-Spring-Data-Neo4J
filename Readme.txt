@@ -1,0 +1,1 @@
+Source code for Feb 2015 article on Working with Spring Data Neo4j demonstrating the graph modeling of healthycode journal using SDN API
